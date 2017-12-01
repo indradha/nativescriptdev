@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_3626deb39ce3477761f86145c6052b61275661e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-26.0.0-alpha1_9e066b064f7f72d5df7c1c3d69a7074e368dc7c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-26.0.0-alpha1_43da04bb4c04068df6c7bcabe957650459245b1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-26.0.0-alpha1_56dd14a60c7b4271fd6fa8d4876274529d41a166.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_2b63268080d71b4934fab2b9bb9d933bf0bd325d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-26.0.0-alpha1_6bf102bd72bbfd9be5b60b2a17a0a2a8cb67332d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/exploded-aar/nativescript-optimized/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-nativescript-optimized_3ca315dc716ee5975fe8b76c1b158bb44845559c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-26.0.0-alpha1_038c615fda879eafc6e7b6037d0e480710301403.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-26.0.0-alpha1_d6453e44bd9c374d58ce4c3b8e16d399c82cb21b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-26.0.0-alpha1_d08055de7de2afeefccc5b545958acdd5439f07b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_0999ed2330d405591929a083cc1f9ed09247230f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-26.0.0-alpha1_3969acb18e4e7eb1cff07d8ad4ded53fcb260410.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/indradha/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-26.0.0-alpha1_85bbe1fbdbef7bbc6b6dca37dbaa742637828a71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-26.0.0-alpha1_46d23616c6ba16d915e76e17c051e35f599b05a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/ns/digitizeer/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_8448b6f6182a2ffbfbaa05c72803e7762ae617ef.jar" />
+    </item>
+
+</items>
